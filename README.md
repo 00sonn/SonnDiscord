@@ -10,5 +10,3 @@ Current version: v1.0.0 (12/04/2025)
 [EmojiReplace](https://betterdiscord.app/theme/EmojiReplace)
 
 <br>
-
-[Website](sonn.hu)
