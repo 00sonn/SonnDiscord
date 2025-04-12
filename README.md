@@ -7,7 +7,7 @@ Current version: v1.0.0 (12/04/2025)
 ## How to install:
 
 1. Download the files
-2. Download Vencord
+2. Download [Vencord](https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe)
 3. Open the themes folder
 4. Paste in the files you downloaded
 5. You're done
